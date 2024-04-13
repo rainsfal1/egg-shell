@@ -1,0 +1,3 @@
+/Users/macbook/projectShell/build/CMakeFiles/shellProject.dir
+/Users/macbook/projectShell/build/CMakeFiles/edit_cache.dir
+/Users/macbook/projectShell/build/CMakeFiles/rebuild_cache.dir
