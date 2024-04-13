@@ -20,7 +20,7 @@ EggShell/
 │   ├── utils.h (Header for utility functions)
 │   └── tictactoe.h (Header for Tic-Tac-Toe game)
 ├── docs/
-│   └── README.md (This document)
+│   └── README.md 
 └── Makefile (Build script)
 ```
 
