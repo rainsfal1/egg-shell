@@ -1,6 +1,10 @@
+<p align="center">
+  <a href="https://nust.edu.pk/"><img width="200" height="200" src="resources/nust.svg"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://seecs.nust.edu.pk/"><img width="200" height="200" src="resources/seecs.png"/></a>
+</p>
+
 # EggShell - A Command Line Interface Project
 
-Welcome to "EggShell", a command line interface (CLI) project developed as part of my semester project. The project
+Welcome to "EggShell", a command line interface (CLI) project developed as part of my first semester project. The project
 is implemented in C and provides a simple yet interactive shell environment for users to execute commands. Moreover, it
 also includes a tictactoe game, as per my professor's wishes.
 ## Project Structure
@@ -19,7 +23,7 @@ EggShell/
 │   ├── commands.h (Header for command implementations)
 │   ├── utils.h (Header for utility functions)
 │   └── tictactoe.h (Header for Tic-Tac-Toe game)
-├── docs/
+├───|
 │   └── README.md 
 └── Makefile (Build script)
 ```
